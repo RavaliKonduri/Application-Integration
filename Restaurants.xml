@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+   ITS 462 Final project
+
+   Filename:         Restaurants.xml
+   Supporting Files: 
+
+-->
+
+<restaurants>
+   <restaurant ID="s001">
+      <address>108 Magnolia Avenue SW</address>
+      <city>Portland</city>
+      <state>OR</state>
+      <zip>97086</zip>
+      <phone>(503) 555 - 3181</phone>
+      <manager>Li Jiang</manager>
+   </restaurant>
+   <restaurant ID="s002">
+      <address>44 Fordham Avenue</address>
+      <city>Portland</city>
+      <state>OR</state>
+      <zip>97299</zip>
+      <phone>(971) 555 - 4005</phone>
+      <manager>Carol Vetter</manager>
+   </restaurant>
+   <restaurant ID="s003">
+      <address>85 Mountain View Lane</address>
+      <city>Salem</city>
+      <state>OR</state>
+      <zip>97302</zip>
+      <phone>(503) 555 - 7717</phone>
+      <manager>Yao Ping</manager>
+   </restaurant>
+   <restaurant ID="s004">
+      <address>717 East Third Street</address>
+      <city>Eugene</city>
+      <state>OR</state>
+      <zip>97403</zip>
+      <phone>(458) 555 - 0011</phone>
+      <manager>David Young</manager>
+   </restaurant>
+   <restaurant ID="s005">
+      <address>41 Business Court West</address>
+      <city>Eugene</city>
+      <state>OR</state>
+      <zip>97408</zip>
+      <phone>(541) 555 - 6883</phone>
+      <manager>Paula Deeds</manager>
+   </restaurant>
+   <restaurant ID="s006">
+      <address>44 Ocean View Court</address>
+      <city>Olympia</city>
+      <state>WA</state>
+      <zip>98505</zip>
+      <phone>(360) 555 - 9218</phone>
+      <manager>Emi Kasai</manager>
+   </restaurant>
+   <restaurant ID="s007">
+      <address>550 Maple Tree Drive</address>
+      <city>Tacoma</city>
+      <state>WA</state>
+      <zip>98404</zip>
+      <phone>(253) 555 - 1499</phone>
+      <manager>Kevin Reed</manager>
+   </restaurant>
+   <restaurant ID="s008">
+      <address>89204 East Sunset Lane</address>
+      <city>Spokane</city>
+      <state>WA</state>
+      <zip>99204</zip>
+      <phone>(509) 555 - 7783</phone>
+      <manager>Michi Ogata</manager>
+   </restaurant>
+   <restaurant ID="s009">
+      <address>62 North Devon Street</address>
+      <city>Astoria</city>
+      <state>OR</state>
+      <zip>97103</zip>
+      <phone>(971) 555 - 2249</phone>
+      <manager>Ian Paulson</manager>
+   </restaurant>
+   <restaurant ID="s010">
+      <address>3941 First Avenue East</address>
+      <city>Salem</city>
+      <state>OR</state>
+      <zip>97310</zip>
+      <phone>(971) 555 - 6781</phone>
+      <manager>Chou Toyama</manager>
+   </restaurant>
+</restaurants>
